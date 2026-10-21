@@ -12,35 +12,25 @@
 
 需要先安装 Node.js（自带 npx）。
 
-
-
 &#x20;   npx skills add Tengyijie/wechat-miniprogram-ui-gen
 
 
 
 安装到指定 agent：
 
-
-
-&#x20;   npx skills add Tengyijie/wechat-miniprogram-ui-gen -a cursor -a claude-code
+&#x20;   npx skills add tengyijie/wechat-miniprogram-ui-gen -a cursor -a claude-code
 
 
 
 全局安装：
 
-
-
-&#x20;   npx skills add Tengyijie/wechat-miniprogram-ui-gen -g -a cursor -a claude-code
+&#x20;   npx skills add tengyijie/wechat-miniprogram-ui-gen -g -a cursor -a claude-code
 
 
 
 \## 怎么用
 
-
-
 安装后，在 Cursor、Claude Code 等 agent 里直接说：
-
-
 
 \- “帮我做一个小程序 UI，风格是清新国风”
 
@@ -52,19 +42,12 @@
 
 \## 文件结构
 
-
-
 &#x20;   skills/
 
 &#x20;   └── wechat-miniprogram-ui-gen/
 
 &#x20;       └── SKILL.md
 
-
-
 \## License
-
-
-
 MIT
 
