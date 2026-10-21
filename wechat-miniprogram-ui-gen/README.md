@@ -7,19 +7,19 @@
 需要先安装 Node.js（自带 npx）。
 
 ```bash
-npx skills add Tengyijie/wechat-miniprogram-ui-gen
+npx skills add tengyijie/wechat-miniprogram-ui-gen
 ```
 
 安装到指定 agent：
 
 ```bash
-npx skills add Tengyijie/wechat-miniprogram-ui-gen -a cursor -a claude-code
+npx skills add tengyijie/wechat-miniprogram-ui-gen -a cursor -a claude-code
 ```
 
 全局安装：
 
 ```bash
-npx skills add Tengyijie/wechat-miniprogram-ui-gen -g -a cursor -a claude-code
+npx skills add tengyijie/wechat-miniprogram-ui-gen -g -a cursor -a claude-code
 ```
 
 ## 怎么用
